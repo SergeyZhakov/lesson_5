@@ -1,0 +1,232 @@
+/* &display=swap*/
+@import url(null.css);
+@import url("https://fonts.googleapis.com/css?family=Barlow:400,700,700italic,900,900italic&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,italic,600,600italic,700,700italic&display=swap");
+
+/* font-family: 'Cormorant Garamond', serif; */
+/* font-family: 'Barlow', sans-serif; */
+
+body {
+	font-family: "Cormorant Garamond", serif;
+}
+img {
+	display: block;
+	margin: 0 auto;
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	margin: 0 auto;
+	max-width: 1200px;
+	border: 1px solid #000;
+}
+.title {
+	font-size: 50px;
+	text-decoration: underline;
+	text-align: center;
+	margin: 0px 0px 20px 0px;
+}
+ul.list {
+	margin: 25px 0px;
+	color: blue;
+	padding: 0px 0px 0px 55px;
+	font-size: 25px;
+	text-transform: capitalize;
+	font-family: "Barlow", sans-serif;
+	font-style: italic;
+	font-weight: 900;
+	text-decoration: underline;
+}
+.list-item {
+	margin: 0px 0px 15px 0px;
+}
+.title_1 {
+	font-size: 40px;
+	color: green;
+	text-align: center;
+	text-shadow: 3px 3px 3px rgb(235, 0, 203);
+	margin: 0px 0px 25px 0px;
+}
+
+.text-info {
+	font-size: 20px;
+	font-family: "Barlow", sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	text-decoration: line-through;
+	color: indigo;
+	padding: 10px;
+}
+.title_2 {
+	font-size: 40px;
+	color: chocolate;
+	text-align: right;
+	font-weight: 700;
+	margin: 0px 0px 25px 0px;
+}
+.text-info2 {
+	font-size: 27px;
+	padding: 10px;
+	text-transform: lowercase;
+	color: gold;
+}
+.arthur {
+	width: 1200px;
+	height: 400px;
+	margin: 25px 0px;
+}
+.block__2 {
+	overflow: scroll;
+	max-height: 600px;
+}
+.title_3 {
+	text-align: center;
+	font-size: 30px;
+	color: blue;
+	text-shadow: -2px -3px 3px rgb(7, 3, 51);
+}
+.text-info3 {
+	color: green;
+	font-size: 24px;
+	line-height: 2;
+	font-weight: 900;
+	padding: 15px;
+}
+.ledger {
+	border: 2px solid rgb(0, 95, 236);
+}
+.title_4 {
+	font-size: 23px;
+	color: olivedrab;
+	text-align: left;
+	font-family: "Barlow", sans-serif;
+	font-style: italic;
+	font-weight: 900;
+	margin: 25px 0px;
+}
+.text-info4 {
+	font-size: 45px;
+	color: darkviolet;
+	letter-spacing: 3px;
+	padding: 10px;
+	margin: 0px 0px 25px 0px;
+}
+.title_5 {
+	margin: 0px 0px 25px 0px;
+	font-size: 50px;
+	color: darkred;
+	text-align: center;
+}
+.clown {
+	width: 500px;
+	height: 300px;
+}
+.text-info5 {
+	font-size: 45px;
+	color: pink;
+	margin: 25px 0px;
+}
+.title_6 {
+	margin: 0px 0px 25px 0px;
+	font-size: 45px;
+	color: peru;
+	text-align: center;
+	letter-spacing: -3px;
+}
+.smile {
+	width: 1200px;
+	height: 300px;
+}
+.text-info6 {
+	font-size: 30px;
+	font-style: italic;
+	color: blue;
+	padding: 15px;
+	line-height: 1.5;
+}
+.title_7 {
+	font-size: 30px;
+	font-family: "Barlow", sans-serif;
+	color: darkcyan;
+	text-align: right;
+	font-weight: 900;
+	margin: 0px 0px 25px 0px;
+}
+.text-info7 {
+	color: darkgrey;
+	padding: 0px 0px 0px 55px;
+	font-size: 25px;
+	text-transform: capitalize;
+	font-family: "Barlow", sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	margin: 0px 0px 25px 0px;
+}
+.title_8 {
+	font-size: 45px;
+	font-weight: 600;
+	font-style: italic;
+	color: darkkhaki;
+	text-align: center;
+	text-decoration: underline;
+	margin: 0px 0px 25px 0px;
+}
+
+.text-info8 {
+	margin: 25px 0px;
+	font-size: 32px;
+	letter-spacing: -2px;
+	color: rgb(51, 211, 211);
+	line-height: 2;
+	padding: 10px;
+}
+.title_9 {
+	font-size: 50px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.text-info9 {
+	font-family: "Barlow", sans-serif;
+	font-size: 43px;
+	color: rgb(0, 255, 13);
+	text-shadow: 3px 5px 3px rgb(129, 0, 129);
+	margin: 25px 0px;
+}
+.title_10 {
+	font-size: 34px;
+	font-style: italic;
+	text-align: center;
+	margin: 0px 0px 25px 0px;
+}
+.glazgo {
+	width: 500px;
+}
+.text-info10 {
+	font-size: 43px;
+	color: goldenrod;
+	text-transform: capitalize;
+	margin: 25px 0px;
+}
+.star {
+	padding: 10px;
+	font-size: 34px;
+	background-color: brown;
+	width: 500px;
+	height: 300px;
+	display: block;
+	margin: 0 auto;
+}
+.span-text {
+	margin-top: 23px;
+	background-color: darkorange;
+	display: inline-block;
+	width: 295px;
+	height: 50px;
+}
+.endpage {
+	color: rgb(0, 17, 95);
+	margin: 25px 0px;
+	display: block;
+	font-size: 24px;
+	text-align: center;
+}
